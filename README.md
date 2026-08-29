@@ -1,2 +1,1 @@
-# nikola-output
-nikola-output
+# nikola-output.shenjuexiao.com
